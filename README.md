@@ -4,7 +4,7 @@
 
 Since i do not use road blocks for anything... i just change it by weed plants.. so if u wanna do the same: 
 
-1-Replace your spawn_roadblock.sqf with the one provided here location : dayz_server.pbo\compile\
+1-Replace your spawn_roadblock.sqf with the one provided here location
 
 2-open your init.sqf find this line to manage the amount of fiber plants spawned.
 ```ruby
