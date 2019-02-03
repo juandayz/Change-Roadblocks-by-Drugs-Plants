@@ -1,5 +1,8 @@
 # Change-Roadblocks-by-Drugs-Plants
 
+PLEASE DONATE: https://github.com/juandayz/Change-Roadblocks-by-Drugs-Plants/blob/master/DONATION.md
+
+
 ***Note: you need some kind of mod that allow uses kilohemp item as drug. (harvest drugs mods etc).
 
 Since i do not use road blocks for anything... i just change it by weed plants.. so if u wanna do the same: 
